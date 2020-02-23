@@ -1,24 +1,24 @@
 # Your name and what you do
-name: Eve Adam
-bio: Software Developer
+name: Amber Davis
+bio: UX Researcher
 
-description: Eve Adam's Personal Website
+description: Amber Davis' Portfolio Website
 
 # Profile picture
 picture: assets/images/profile.jpg
 
 # your url: http://USERNAME.github.io
-url: https://jibolash.github.io/Eve/
+url: https://davisamber.github.io
 
 # do you want to display social media links? true or false
 social-media: true
 # Add your username for the social media websites listed below
 # If you don't have an account on any of them, comment out the line
 # facebook: myfacebook
-twitter: mytwitter
-linkedin: mylinkedin
+twitter: davisamberm
+linkedin: davisamber
 github: mygithub
-email: myemail@gmail.com
+email: https://docs.google.com/forms/d/e/1FAIpQLSfIgMnNqjXGvtagiyoIra7jSZJ3l8rPHQKMBMS9WaSRnhBJVQ/viewform?usp=sf_link
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -45,17 +45,17 @@ skills: true
 
 # add your skills here
 skills-list:
-    - HTML, Jade
-    - CSS (Stylus, Sass, Less)
-    - Javascript, NodeJS
-    - AngularJS, ReactJS
-    - Java, Android
-    - Python
-    - MySQL - MongoDB    
-    - Git    
+    - Qualitative and quantitative research
+    - Service design
+    - Behavioral economics
+    - Design thinking
+    - Workshop facilitation
+    - Product strategy
+    - People management  
+    - Coaching & mentorship
 
 # do you want to display a projects section? true or false
-projects: true
+projects: false
 
 # add your projects here
 project-list:
